@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Estou aprendendo Python, desenvolvimento web, front-end e muito mais<br><br>🎯 Objetivos: conseguir minha primeira oportunidade na área de programação e crescer como desenvolvedora</p>
+<p align="left">📚 Estou aprendendo Python, Web Development, Front-end e muito mais<br><br>🎯 Objetivos: conseguir minha primeira oportunidade na área de programação e crescer como desenvolvedora</p>
 
 ###
 
